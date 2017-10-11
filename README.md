@@ -1,13 +1,13 @@
-# The most complete list of ressources for Front-End beginners (🇺🇸 & 🇫🇷)
+# The most complete list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 ***(avec indicateur de langue française)***
 
 If you want to learn how to become a Front-End developer, you are on the right place!
 
-Regularly I will update that list with new ressources and links I found on the web. Don't hesitate to participate sending a PR! Maybe your first on Github :)
+Regularly I will update that list with new resources and links I found on the web. Don't hesitate to participate sending a PR! Maybe your first on Github :)
 
-I'm using some emoticons to give you more informations about these links.
+I'm using some emoticons to give you more information about these links.
 
-1. All links without a flag are in english 🇺🇸. The flag 🇫🇷 means the ressource is in French, 🌍 means the ressource is multilanguage.
+1. All links without a flag are in english 🇺🇸. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multilanguage.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
 4. ★★★ indicate the quality of the links (based on 3 max). It's total subjective notation but that maybe can help you.  

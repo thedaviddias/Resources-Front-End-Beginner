@@ -5,7 +5,7 @@ If you want to learn how to become a Front-End developer, you are on the right p
 
 Regularly I will update that list with new resources and links I found on the web. Don't hesitate to participate sending a PR! Maybe your first on Github :)
 
-I'm using some emoticons to give you more informations about these links.
+I'm using some emoticons to give you more information about these links.
 
 1. All links without a flag are in english 🇺🇸. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multilanguage.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.

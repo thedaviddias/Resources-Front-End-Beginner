@@ -5,9 +5,9 @@ If you want to learn how to become a Front-End developer, you are on the right p
 
 Regularly I will update that list with new resources and links I found on the web. Don't hesitate to participate sending a PR! Maybe your first on Github :)
 
-I'm using some emoticons to give you more informations about these links.
+I'm using some emoticons to give you more information about these links.
 
-1. All links without a flag are in english 🇺🇸. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multilanguage.
+1. All links without a flag are in english 🇺🇸. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available 
@@ -56,18 +56,20 @@ I'm using some emoticons to give you more informations about these links.
   * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/) 💰🆓
   * [HTML Basics - TreeHouse](https://teamtreehouse.com/library/html-basics-2) 💰 📹
   * [HTML/CSS Path - Code School](https://www.codeschool.com/learn/html-css) 💰 📹 
+  * [HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html) 💰 📹
   * [Your First Day with HTML - Pluralsight](https://www.pluralsight.com/courses/your-first-day-html-1665) 💰 📹
   * [HTML Fundamentals - Pluralsight](https://www.pluralsight.com/courses/html-fundamentals) 💰 📹
   * [Introduction to HTML and CSS - TreeHouse](https://teamtreehouse.com/library/introduction-to-html-and-css) 💰 
   * [HTML/CSS on Code Avengers](https://www.codeavengers.com/profile#html-css) 💰🆓
+  * [30 Days to Learn HTML & CSS](https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css?_ga=2.133963854.1549833602.1507724443-1498690494.1505785599) 💰🆓 📹
   * 🇫🇷 [Apprenez à créer votre site web avec HTML5 et CSS3 - OpenClassRooms](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) 💰🆓
   * 🇫🇷 [Tutoriels web HTML - Alsacréations](https://www.alsacreations.com/tuto/liste/1-HTML) 🆓
   * 🇫🇷 [HTML et CSS - Le Cours Complet - Udemy](https://www.udemy.com/cours-html-css/) 💰
 
 * Documentation
   * [HTML Reference](http://htmlreference.io/) 🔝
+  * [Introduction to HTML - MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) 🔝
   * [HTML Cheat Sheet - Compilation](https://websitesetup.org/html5-cheat-sheet/)
-  * [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
   * [HTML5 Tutorial PDF - Tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
   * [Getting to Know HTML - Shay Howe](https://learn.shayhowe.com/html-css/getting-to-know-html/)
   * [The Elements of HTML](https://rawgit.com/w3c/elements-of-html/master/index.html)
@@ -87,9 +89,10 @@ I'm using some emoticons to give you more informations about these links.
 ### Learn CSS
 * Courses/Tutorials
   * 🌍 [Learn CSS - CodeCademy](https://www.codecademy.com/learn/learn-css) 💰🆓 🔝
+  * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
   * [CSS Basics - TreeHouse](https://teamtreehouse.com/library/css-basics) 💰 📹
   * [Introduction to CSS](https://www.pluralsight.com/courses/css-intro) 💰 📹
-  * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
+  * [CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) 💰 📹
   * 🇫🇷 [Tutoriel HTML/CSS - Box Sizing - Grafikart](https://www.youtube.com/watch?v=oFziQkOqKd0) 🆓 📹
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
@@ -100,6 +103,7 @@ I'm using some emoticons to give you more informations about these links.
 
 * Documentation
   * [CSS Reference](http://cssreference.io/) 🔝
+  * [CSS - MDN web docs](https://developer.mozilla.org/en-US/docs/Web/CSS) 🔝
   * [Open Web Reference - CSS](http://ref.openweb.io/CSS/)
   * [CSS Reference](https://tympanus.net/codrops/css_reference/)
   * [Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
@@ -133,9 +137,13 @@ I'm using some emoticons to give you more informations about these links.
   * [Introduction To JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript) 💰🆓 🔝
   * [Beau teaches JavaScript - Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) 🆓 📹
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) 🆓 📹 
+  * [Intro to JavaScript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 🆓
+  * [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 💰 📹
+  * [JavaScript Fundamentals - Tuts+](https://code.tutsplus.com/courses/javascript-fundamentals) 💰🆓 📹
   * [Getting Started with JavaScript for Web Development - Scotch](https://scotch.io/courses/getting-started-with-javascript) 💰🆓
   * [JavaScript Basics - TreeHouse](https://teamtreehouse.com/library/javascript-basics) 💰
   * [JavaScript path - Code School](https://www.codeschool.com/learn/javascript) 💰
+  * [ES6 for everyone](https://es6.io/) 💰 📹
   * 🇫🇷 [Tutoriels web JavaScript - Alsacréations](https://www.alsacreations.com/tuto/liste/5-Javascript) 🆓
 
 * Documentation
@@ -146,17 +154,26 @@ I'm using some emoticons to give you more informations about these links.
   * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2)
 
 * Articles/Books
+  * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript) 🆓
+  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) 🆓
+  * [JavaScript, the definitive guide](https://www.amazon.fr/JavaScript-Definitive-Guide-David-Flanagan/dp/0596805527)
+  * [Javascript: The Good Parts](https://www.amazon.fr/Javascript-Good-Parts-D-Crockford/dp/0596517742)
   * [Eloquent JavaScript: A Modern Introduction to Programming](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846)
+  * [JavaScript Allongée](https://leanpub.com/javascriptallongesix)
+  * [Learning JavaScript](https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912)
+  * [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.fr/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571)
+  * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
 
 ---
 ### Learn GIT
 
 * [15 minutes to learn Git](https://try.github.io) 🔝
 * 🌍 [Learn Git on CodeCademy](https://www.codecademy.com/learn/learn-git) 💰🆓 🔝
-* [Learn Git Branching – Educational challenges](https://learngitbranching.js.org/)
-* [Learn Git by Microsoft](https://www.visualstudio.com/learn-git/)
-* [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/)
-* [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+* [Learn Git Branching – Educational challenges](https://learngitbranching.js.org/) 🆓
+* [Learn Git by Microsoft](https://www.visualstudio.com/learn-git/) 🆓
+* [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/) 🆓
+* [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
+* [Git Essential Training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
 
 ---
 ### Tools
@@ -173,3 +190,13 @@ I'm using some emoticons to give you more informations about these links.
   * [NotePad++](https://notepad-plus-plus.org/) 🆓
   * [Cloud9](https://c9.io/) 💰🆓
 
+---
+### Aggregators / news
+* [Smashing Magazine](https://www.smashingmagazine.com/) 🔝
+* [CSS-Tricks](https://css-tricks.com/) 🔝
+* [Front-End Stash](https://frontendstash.top/) 🔝
+* [Codrops](https://tympanus.net/codrops/) 🔝
+* [Front-End Front - Basically, front-end news](https://frontendfront.com/)
+* [Echo JS - JavaScript News](http://www.echojs.com/)
+* [A list Apart - Code](https://alistapart.com/topic/code)
+* [Schotch - Code Eat Sleep Loop](https://scotch.io/)

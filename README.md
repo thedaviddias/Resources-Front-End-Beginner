@@ -21,6 +21,7 @@ I'm using some emoticons to give you more information about these links.
 4. **[Learn JavaScript](#learn-javascript)**
 5. **[Learn Git](#learn-git)**
 6. **[Tools](#tools)**
+7. **[Aggregators / news](#aggregators--news)**
 
 ---
 ### Start here

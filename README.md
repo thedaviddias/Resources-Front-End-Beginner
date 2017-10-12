@@ -65,6 +65,7 @@ I'm using some emoticons to give you more information about these links.
   * [Your First Day with HTML - Pluralsight](https://www.pluralsight.com/courses/your-first-day-html-1665) 💰 📹
   * [HTML Fundamentals - Pluralsight](https://www.pluralsight.com/courses/html-fundamentals) 💰 📹
   * [Introduction to HTML and CSS - TreeHouse](https://teamtreehouse.com/library/introduction-to-html-and-css) 💰 
+  * [Introduction to HTML5 and CSS3 - Frontend Masters](https://frontendmasters.com/courses/introduction-html5-css3/) 💰 📹
   * [HTML/CSS on Code Avengers](https://www.codeavengers.com/profile#html-css) 💰🆓
   * [30 Days to Learn HTML & CSS](https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css?_ga=2.133963854.1549833602.1507724443-1498690494.1505785599) 💰🆓 📹
   * 🇫🇷 [Apprenez à créer votre site web avec HTML5 et CSS3 - OpenClassRooms](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) 💰🆓
@@ -98,7 +99,9 @@ I'm using some emoticons to give you more information about these links.
   * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
   * [CSS Basics - TreeHouse](https://teamtreehouse.com/library/css-basics) 💰 📹
   * [Introduction to CSS](https://www.pluralsight.com/courses/css-intro) 💰 📹
+  * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) 💰 📹
   * [CSS Essential Training 3 - Lynda](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) 💰 📹
+  * [Scalable Modular Architecture for CSS (SMACSS) - Frontend Masters](https://frontendmasters.com/courses/smacss/) 💰 📹
   * 🇫🇷 [Tutoriel HTML/CSS - Box Sizing - Grafikart](https://www.youtube.com/watch?v=oFziQkOqKd0) 🆓 📹
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
@@ -145,6 +148,7 @@ I'm using some emoticons to give you more information about these links.
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) 🆓 📹 
   * [Intro to JavaScript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 🆓
   * [Learn JavaScript - Codementor](https://www.codementor.io/javascript) 🆓
+  * [Introduction to JavaScript Programming - Frontend Masters](https://frontendmasters.com/courses/javascript-basics/) 💰 📹
   * [JavaScript Essential Training - Lynda](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 💰 📹
   * [JavaScript Fundamentals - Tuts+](https://code.tutsplus.com/courses/javascript-fundamentals) 💰🆓 📹
   * [Getting Started with JavaScript for Web Development - Scotch](https://scotch.io/courses/getting-started-with-javascript) 💰🆓

@@ -1,4 +1,4 @@
-# The most complete list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
+# The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 ***(avec indicateur de langue française)***
 
 If you want to learn how to become a Front-End developer, you are on the right place!

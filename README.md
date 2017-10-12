@@ -22,6 +22,7 @@ I'm using some emoticons to give you more information about these links.
 5. **[Learn Git](#learn-git)**
 6. **[Tools](#tools)**
 7. **[Aggregators / news](#aggregators--news)**
+8. **[Newsletter](#newsletter)**
 
 ---
 ### Start here
@@ -57,7 +58,7 @@ I'm using some emoticons to give you more information about these links.
   * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/) 💰🆓
   * [HTML Basics - TreeHouse](https://teamtreehouse.com/library/html-basics-2) 💰 📹
   * [HTML/CSS Path - Code School](https://www.codeschool.com/learn/html-css) 💰 📹 
-  * [HTML Essential Training](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html) 💰 📹
+  * [HTML Essential Training - Lynda](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html) 💰 📹
   * [Your First Day with HTML - Pluralsight](https://www.pluralsight.com/courses/your-first-day-html-1665) 💰 📹
   * [HTML Fundamentals - Pluralsight](https://www.pluralsight.com/courses/html-fundamentals) 💰 📹
   * [Introduction to HTML and CSS - TreeHouse](https://teamtreehouse.com/library/introduction-to-html-and-css) 💰 
@@ -79,6 +80,7 @@ I'm using some emoticons to give you more information about these links.
   * [HTML Best Practices - Github](https://github.com/hail2u/html-best-practices)
 
 * Quizz / challenges
+  * [LearnYouHTML - NodeSchool](https://github.com/denysdovhan/learnyouhtml)
   * [HTML Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/html5-beginner-level)
 
 * Articles/Books
@@ -93,7 +95,7 @@ I'm using some emoticons to give you more information about these links.
   * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
   * [CSS Basics - TreeHouse](https://teamtreehouse.com/library/css-basics) 💰 📹
   * [Introduction to CSS](https://www.pluralsight.com/courses/css-intro) 💰 📹
-  * [CSS Essential Training 3](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) 💰 📹
+  * [CSS Essential Training 3 - Lynda](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html) 💰 📹
   * 🇫🇷 [Tutoriel HTML/CSS - Box Sizing - Grafikart](https://www.youtube.com/watch?v=oFziQkOqKd0) 🆓 📹
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
@@ -139,7 +141,8 @@ I'm using some emoticons to give you more information about these links.
   * [Beau teaches JavaScript - Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) 🆓 📹
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) 🆓 📹 
   * [Intro to JavaScript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 🆓
-  * [JavaScript Essential Training](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 💰 📹
+  * [Learn JavaScript - Codementor](https://www.codementor.io/javascript) 🆓
+  * [JavaScript Essential Training - Lynda](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 💰 📹
   * [JavaScript Fundamentals - Tuts+](https://code.tutsplus.com/courses/javascript-fundamentals) 💰🆓 📹
   * [Getting Started with JavaScript for Web Development - Scotch](https://scotch.io/courses/getting-started-with-javascript) 💰🆓
   * [JavaScript Basics - TreeHouse](https://teamtreehouse.com/library/javascript-basics) 💰
@@ -152,7 +155,8 @@ I'm using some emoticons to give you more information about these links.
   * [ES6 Katas - Learn ES6 by doing it](http://es6katas.org/)
 
 * Quizz / challenges
-  * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2)
+  * [Workshoppers - NodeSchool](https://nodeschool.io/) 🔝
+  * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2) 🔝
 
 * Articles/Books
   * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript) 🆓
@@ -169,12 +173,13 @@ I'm using some emoticons to give you more information about these links.
 ### Learn GIT
 
 * [15 minutes to learn Git](https://try.github.io) 🔝
+* [Git-it (Desktop App) - NodeSchool](https://github.com/jlord/git-it-electron) 🆓 🔝
 * 🌍 [Learn Git on CodeCademy](https://www.codecademy.com/learn/learn-git) 💰🆓 🔝
 * [Learn Git Branching – Educational challenges](https://learngitbranching.js.org/) 🆓
 * [Learn Git by Microsoft](https://www.visualstudio.com/learn-git/) 🆓
 * [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/) 🆓
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
-* [Git Essential Training](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
+* [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
 
 ---
 ### Tools
@@ -201,3 +206,18 @@ I'm using some emoticons to give you more information about these links.
 * [Echo JS - JavaScript News](http://www.echojs.com/)
 * [A list Apart - Code](https://alistapart.com/topic/code)
 * [Schotch - Code Eat Sleep Loop](https://scotch.io/)
+
+---
+## Chat / Slack channels
+* [FEDs](https://feds.slack.com)
+* 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
+
+---
+### Newsletters
+* [Frontend Focus](https://frontendfoc.us/)
+* [CSS Weekly](http://css-weekly.com/)
+* [CSS-Tricks](https://css-tricks.com/newsletters/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
+* [WebTools Weekly](https://webtoolsweekly.com/)
+* [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
+* [Sidebar](https://sidebar.io/)

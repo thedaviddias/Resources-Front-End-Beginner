@@ -11,7 +11,6 @@ I'm using some emoticons to give you more information about these links.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available 
-
 ---
 
 ### Table of Contents
@@ -21,8 +20,12 @@ I'm using some emoticons to give you more information about these links.
 4. **[Learn JavaScript](#learn-javascript)**
 5. **[Learn Git](#learn-git)**
 6. **[Tools](#tools)**
-7. **[Aggregators / news](#aggregators--news)**
-8. **[Newsletter](#newsletter)**
+7. **[Chat / Slack](#chat--slack-channels)**
+8. **[Aggregators / news](#aggregators--news)**
+9. **[Newsletter](#newsletter)**
+
+![Learn the basics](https://res.cloudinary.com/djnyaloac/image/upload/v1507777230/front-end-know-basics.jpg)
+***From Web Developer Roadmap 2017***
 
 ---
 ### Start here
@@ -37,7 +40,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Comprendre comment marche Internet](https://www.youtube.com/playlist?list=PL2972E0D013FE7DE7) 📹
   * 🇫🇷 [Comprendre Internet](http://www.comprendre-internet.com/)
 * Understand your journey
-  * [Web Developer Roadpath - Github](https://github.com/kamranahmedse/developer-roadmap)
+  * [Web Developer Roadmap 2017 - Github](https://github.com/kamranahmedse/developer-roadmap)
 
 ---
 ### Learn HTML
@@ -197,6 +200,11 @@ I'm using some emoticons to give you more information about these links.
   * [Cloud9](https://c9.io/) 💰🆓
 
 ---
+## Chat / Slack channels
+* [FEDs - Slack](https://feds.slack.com)
+* 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
+
+---
 ### Aggregators / news
 * [Smashing Magazine](https://www.smashingmagazine.com/) 🔝
 * [CSS-Tricks](https://css-tricks.com/) 🔝
@@ -206,11 +214,6 @@ I'm using some emoticons to give you more information about these links.
 * [Echo JS - JavaScript News](http://www.echojs.com/)
 * [A list Apart - Code](https://alistapart.com/topic/code)
 * [Schotch - Code Eat Sleep Loop](https://scotch.io/)
-
----
-## Chat / Slack channels
-* [FEDs](https://feds.slack.com)
-* 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
 
 ---
 ### Newsletters

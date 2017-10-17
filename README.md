@@ -21,7 +21,7 @@ I'm using some emoticons to give you more information about these links.
 5. **[Learn Git](#learn-git)**
 6. **[Tools](#tools)**
 7. **[Chat / Slack](#chat--slack-channels)**
-8. **[Aggregators / news](#aggregators--news)**
+8. **[Aggregators / News](#aggregators--news)**
 9. **[Newsletter](#newsletter)**
 
 ![Learn the basics](https://res.cloudinary.com/djnyaloac/image/upload/v1507777230/front-end-know-basics.jpg)
@@ -45,7 +45,7 @@ I'm using some emoticons to give you more information about these links.
 ---
 ### Learn HTML
 
-* Courses/Tutorials
+* Courses / Tutorials
   * 🌍 [Learn HTML - CodeCademy](https://www.codecademy.com/learn/learn-html) 💰🆓 📹 🔝
   * [HTML5 and CSS - FreeCodeCamp](https://www.freecodecamp.org/map#nested-collapseHTML5andCSS) 🆓 🔝
   * [MarkSheet - A free HTML & CSS tutorial](http://marksheet.io/) 🆓 🔝
@@ -83,7 +83,7 @@ I'm using some emoticons to give you more information about these links.
 * Guidelines
   * [HTML Best Practices - Github](https://github.com/hail2u/html-best-practices)
 
-* Quizz / challenges
+* Quiz / Challenges
   * [LearnYouHTML - NodeSchool](https://github.com/denysdovhan/learnyouhtml)
   * [HTML Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/html5-beginner-level)
 
@@ -94,7 +94,7 @@ I'm using some emoticons to give you more information about these links.
 
 ---
 ### Learn CSS
-* Courses/Tutorials
+* Courses / Tutorials
   * 🌍 [Learn CSS - CodeCademy](https://www.codecademy.com/learn/learn-css) 💰🆓 🔝
   * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
   * [CSS Basics - TreeHouse](https://teamtreehouse.com/library/css-basics) 💰 📹
@@ -141,7 +141,7 @@ I'm using some emoticons to give you more information about these links.
 
 ---
 ### Learn JavaScript
-* Courses/Tutorials
+* Courses / Tutorials
   * [Basic JavaScript](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript) 🆓 🔝
   * [Introduction To JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript) 💰🆓 🔝
   * [Beau teaches JavaScript - Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) 🆓 📹
@@ -165,7 +165,7 @@ I'm using some emoticons to give you more information about these links.
   * [Workshoppers - NodeSchool](https://nodeschool.io/) 🔝
   * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2) 🔝
 
-* Articles/Books
+* Articles / Books
   * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript) 🆓
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) 🆓
   * [JavaScript, the definitive guide](https://www.amazon.fr/JavaScript-Definitive-Guide-David-Flanagan/dp/0596805527)
@@ -209,7 +209,7 @@ I'm using some emoticons to give you more information about these links.
 * 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
 
 ---
-### Aggregators / news
+### Aggregators / News
 * [Smashing Magazine](https://www.smashingmagazine.com/) 🔝
 * [CSS-Tricks](https://css-tricks.com/) 🔝
 * [Front-End Stash](https://frontendstash.top/) 🔝

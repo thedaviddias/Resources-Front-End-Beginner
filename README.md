@@ -102,13 +102,9 @@ I'm using some emoticons to give you more information about these links.
 **[⬆ back to top](#table-of-contents)**
 
 ---
-<<<<<<< HEAD
-## Learn CSS
-* Courses/Tutorials
-=======
 ### Learn CSS
 * Courses / Tutorials
->>>>>>> 978afaed95aa5a2cfb0b93f1319afc218fd01a06
+
   * 🌍 [Learn CSS - CodeCademy](https://www.codecademy.com/learn/learn-css) 💰🆓 🔝
   * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
   * [CSS Basics - TreeHouse](https://teamtreehouse.com/library/css-basics) 💰 📹
@@ -156,13 +152,9 @@ I'm using some emoticons to give you more information about these links.
 **[⬆ back to top](#table-of-contents)**
 
 ---
-<<<<<<< HEAD
-## Learn JavaScript
-* Courses/Tutorials
-=======
 ### Learn JavaScript
 * Courses / Tutorials
->>>>>>> 978afaed95aa5a2cfb0b93f1319afc218fd01a06
+
   * [Basic JavaScript](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript) 🆓 🔝
   * [Introduction To JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript) 💰🆓 🔝
   * [Beau teaches JavaScript - Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) 🆓 📹
@@ -236,11 +228,8 @@ I'm using some emoticons to give you more information about these links.
 * 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
 
 ---
-<<<<<<< HEAD
-## Aggregators / news
-=======
 ### Aggregators / News
->>>>>>> 978afaed95aa5a2cfb0b93f1319afc218fd01a06
+
 * [Smashing Magazine](https://www.smashingmagazine.com/) 🔝
 * [CSS-Tricks](https://css-tricks.com/) 🔝
 * [Front-End Stash](https://frontendstash.top/) 🔝

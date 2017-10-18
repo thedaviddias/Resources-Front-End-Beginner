@@ -1,5 +1,10 @@
 # The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
-***(avec indicateur de langue française)***
+
+[![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
+[![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+[gitter-image]: https://badges.gitter.im/Front-End-Checklist/Lobby.svg
+[gitter-url]: https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 If you want to learn how to become a Front-End developer, you are on the right place!
 
@@ -11,9 +16,9 @@ I'm using some emoticons to give you more information about these links.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available 
----
 
-### Table of Contents
+---
+## Table of Contents
 1. **[Start here](#start-here)**
 2. **[Learn HTML](#learn-html)**
 3. **[Learn CSS](#learn-css)**
@@ -28,7 +33,7 @@ I'm using some emoticons to give you more information about these links.
 ***From Web Developer Roadmap 2017***
 
 ---
-### Start here
+## Start here
 * Understand Internet
   * [How Does the Internet Actually Work?](https://www.youtube.com/watch?v=ZonvMhT5c_Q) 📹 🔝
   * [What is Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M) 📹 🔝
@@ -42,8 +47,10 @@ I'm using some emoticons to give you more information about these links.
 * Understand your journey
   * [Web Developer Roadmap 2017 - Github](https://github.com/kamranahmedse/developer-roadmap)
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
-### Learn HTML
+## Learn HTML
 
 * Courses/Tutorials
   * 🌍 [Learn HTML - CodeCademy](https://www.codecademy.com/learn/learn-html) 💰🆓 📹 🔝
@@ -92,8 +99,10 @@ I'm using some emoticons to give you more information about these links.
   * [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
   * 🇫🇷 [Réalisez votre site web avec HTML 5 et CSS 3](http://www.eyrolles.com/Informatique/Livre/realisez-votre-site-web-avec-html-5-et-css-3-9782212674767)
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
-### Learn CSS
+## Learn CSS
 * Courses/Tutorials
   * 🌍 [Learn CSS - CodeCademy](https://www.codecademy.com/learn/learn-css) 💰🆓 🔝
   * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
@@ -139,8 +148,10 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [CSS avancées, Vers HTML5 et CSS3 - Mathieu Nebra](%>)
   * 🇫🇷 [Premier pas en CSS3 et HTML5](http://www.eyrolles.com/Informatique/Livre/premiers-pas-en-css3-et-html5-9782212674309)
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
-### Learn JavaScript
+## Learn JavaScript
 * Courses/Tutorials
   * [Basic JavaScript](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript) 🆓 🔝
   * [Introduction To JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript) 💰🆓 🔝
@@ -176,8 +187,10 @@ I'm using some emoticons to give you more information about these links.
   * [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.fr/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571)
   * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
-### Learn GIT
+## Learn GIT
 
 * [15 minutes to learn Git](https://try.github.io) 🔝
 * [Git-it (Desktop App) - NodeSchool](https://github.com/jlord/git-it-electron) 🆓 🔝
@@ -188,8 +201,10 @@ I'm using some emoticons to give you more information about these links.
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
 * [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
-### Tools
+## Tools
 * Essential
   * [Github](https://github.com/) 💰🆓 🔝
 * Playgrounds
@@ -203,13 +218,15 @@ I'm using some emoticons to give you more information about these links.
   * [NotePad++](https://notepad-plus-plus.org/) 🆓
   * [Cloud9](https://c9.io/) 💰🆓
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
 ## Chat / Slack channels
 * [FEDs - Slack](https://feds.slack.com)
 * 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
 
 ---
-### Aggregators / news
+## Aggregators / news
 * [Smashing Magazine](https://www.smashingmagazine.com/) 🔝
 * [CSS-Tricks](https://css-tricks.com/) 🔝
 * [Front-End Stash](https://frontendstash.top/) 🔝
@@ -219,8 +236,10 @@ I'm using some emoticons to give you more information about these links.
 * [A list Apart - Code](https://alistapart.com/topic/code)
 * [Schotch - Code Eat Sleep Loop](https://scotch.io/)
 
+**[⬆ back to top](#table-of-contents)**
+
 ---
-### Newsletters
+## Newsletters
 * [Frontend Focus](https://frontendfoc.us/)
 * [CSS Weekly](http://css-weekly.com/)
 * [CSS-Tricks](https://css-tricks.com/newsletters/)

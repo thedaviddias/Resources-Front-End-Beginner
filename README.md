@@ -27,7 +27,7 @@ I'm using some emoticons to give you more information about these links.
 6. **[Tools](#tools)**
 7. **[Chat / Slack](#chat--slack-channels)**
 8. **[Aggregators / News](#aggregators--news)**
-9. **[Newsletter](#newsletter)**
+9. **[Newsletters](#newsletters)**
 
 ![Learn the basics](https://res.cloudinary.com/djnyaloac/image/upload/v1507777230/front-end-know-basics.jpg)
 ***From Web Developer Roadmap 2017***

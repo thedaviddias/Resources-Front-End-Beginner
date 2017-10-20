@@ -1,4 +1,4 @@
-# The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
+# The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 
 [![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -12,7 +12,7 @@ Regularly I will update that list with new resources and links I found on the we
 
 I'm using some emoticons to give you more information about these links.
 
-1. All links without a flag are in english 🇺🇸. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
+1. All links without a flag are in english 🇺🇸 🇬🇧. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available 

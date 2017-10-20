@@ -250,3 +250,21 @@ I'm using some emoticons to give you more information about these links.
 * [WebTools Weekly](https://webtoolsweekly.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
 * [Sidebar](https://sidebar.io/)
+
+## Contributing
+
+**Open an issue or a pull request to suggest changes or additions.**
+
+### Contributors
+
+Check out all the super awesome [contributors](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors).
+
+## Authors
+
+**[David Dias](https://twitter.com/thedaviddias)**
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+**[⬆ back to top](#table-of-contents)**

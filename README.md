@@ -238,7 +238,7 @@ I'm using some emoticons to give you more information about these links.
 * [Front-End Front - Basically, front-end news](https://frontendfront.com/)
 * [Echo JS - JavaScript News](http://www.echojs.com/)
 * [A list Apart - Code](https://alistapart.com/topic/code)
-* [Schotch - Code Eat Sleep Loop](https://scotch.io/)
+* [Scotch - Code Eat Sleep Loop](https://scotch.io/)
 
 **[⬆ back to top](#table-of-contents)**
 

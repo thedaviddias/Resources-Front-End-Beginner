@@ -175,7 +175,7 @@ I'm using some emoticons to give you more information about these links.
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * [ES6 Katas - Learn ES6 by doing it](http://es6katas.org/)
 
-* Quizz / challenges
+* Quiz / challenges
   * [Workshoppers - NodeSchool](https://nodeschool.io/) 🔝
   * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2) 🔝
 

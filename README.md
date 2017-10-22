@@ -169,6 +169,7 @@ I'm using some emoticons to give you more information about these links.
   * [JavaScript path - Code School](https://www.codeschool.com/learn/javascript) 💰
   * [ES6 for everyone](https://es6.io/) 💰 📹
   * 🇫🇷 [Tutoriels web JavaScript - Alsacréations](https://www.alsacreations.com/tuto/liste/5-Javascript) 🆓
+  * [JavaScript.Info](http://javascript.info/)
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

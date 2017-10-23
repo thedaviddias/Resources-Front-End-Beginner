@@ -115,8 +115,11 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriel HTML/CSS - Box Sizing - Grafikart](https://www.youtube.com/watch?v=oFziQkOqKd0) 🆓 📹
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
+    * Selectors
+      * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
     * Flexbox
       * [Flexbox Froggy](http://flexboxfroggy.com/) 🆓 🔝
+      * [Flexbox Defense](http://www.flexboxdefense.com/) 🆓 🔝
     * CSS Grid
       * [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
 

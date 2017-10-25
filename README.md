@@ -176,6 +176,7 @@ I'm using some emoticons to give you more information about these links.
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
   * [ES6 Katas - Learn ES6 by doing it](http://es6katas.org/)
 
 * Quiz / challenges

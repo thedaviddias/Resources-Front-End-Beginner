@@ -93,6 +93,7 @@ I'm using some emoticons to give you more information about these links.
 * Quiz / Challenges
   * [LearnYouHTML - NodeSchool](https://github.com/denysdovhan/learnyouhtml)
   * [HTML Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/html5-beginner-level)
+  * [HTML Quiz medium level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/html5-medium-level)
 
 * Articles/Books
   * [Learn to Code HTML and CSS: Develop and Style Websites](https://www.amazon.com/Learn-Code-HTML-CSS-Websites/dp/0321940520)
@@ -140,7 +141,7 @@ I'm using some emoticons to give you more information about these links.
 
 * Quizz / challenges
   * [CSS Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/css-beginner-level-2)
-
+  * [CSS Quiz medium level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/css-medium-level)
 * Articles/Books
   * [CSS, The definitive guide - Eric Meyer](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330) 
   * [Enduring CSS - Ben Frain](https://www.amazon.com/Enduring-CSS-Ben-Frain/dp/1787282805)
@@ -182,6 +183,7 @@ I'm using some emoticons to give you more information about these links.
 * Quiz / challenges
   * [Workshoppers - NodeSchool](https://nodeschool.io/) 🔝
   * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2) 🔝
+  * [JavaScript Quiz medium level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-medium-level-2) 🔝
 
 * Articles / Books
   * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript) 🆓

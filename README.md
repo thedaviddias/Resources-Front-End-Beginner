@@ -78,6 +78,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Apprenez à créer votre site web avec HTML5 et CSS3 - OpenClassRooms](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) 💰🆓
   * 🇫🇷 [Tutoriels web HTML - Alsacréations](https://www.alsacreations.com/tuto/liste/1-HTML) 🆓
   * 🇫🇷 [HTML et CSS - Le Cours Complet - Udemy](https://www.udemy.com/cours-html-css/) 💰
+  * [HTML5 Tutorial - w3schools](https://www.w3schools.com/html/) 🆓
 
 * Documentation
   * [HTML Reference](http://htmlreference.io/) 🔝
@@ -115,6 +116,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriel HTML/CSS - Box Sizing - Grafikart](https://www.youtube.com/watch?v=oFziQkOqKd0) 🆓 📹
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
+  * [CSS Tutorial - w3schools](https://www.w3schools.com/css/) 🆓
     * Selectors
       * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
     * Flexbox
@@ -173,6 +175,7 @@ I'm using some emoticons to give you more information about these links.
   * [ES6 for everyone](https://es6.io/) 💰 📹
   * 🇫🇷 [Tutoriels web JavaScript - Alsacréations](https://www.alsacreations.com/tuto/liste/5-Javascript) 🆓
   * [JavaScript.Info](http://javascript.info/)
+  * [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/) 🆓
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

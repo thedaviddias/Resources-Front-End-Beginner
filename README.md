@@ -220,6 +220,7 @@ I'm using some emoticons to give you more information about these links.
 * Playgrounds
   * [Codepen](https://codepen.io/) 💰🆓 🔝
   * [SassMeister](https://www.sassmeister.com/)
+  * [JSFiddle](https://jsfiddle.net/)
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝
   * [Sublime Text](https://www.sublimetext.com/) 🆓

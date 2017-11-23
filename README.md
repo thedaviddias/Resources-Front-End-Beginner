@@ -42,6 +42,7 @@ I'm using some emoticons to give you more information about these links.
   * [How does the internet work? - Part 1 (It's like a bad drawing.)](https://www.youtube.com/watch?v=XZIMEoUhOA8) 📹
   * [How Does the Internet Work?](https://www.youtube.com/watch?v=7XoaoFjKqYM) 📹
   * [How the Internet Works for Developers - Pt 1 - Overview & Frontend](https://www.youtube.com/watch?v=e4S8zfLdLgQ) 📹
+  * 🇫🇷 [Benjamin Bayart : Qu'est ce qu'Internet (Conférence à SciencesPo le 14 avril 2010, durée 5h30)](https://www.youtube.com/watch?v=pwT2egqlke4&list=PLU39vuHuXlJeER75D1GNJiK8-2i0yhRLX) 📹 🔝
   * 🇫🇷 [C'est pas sorcier -INTERNET : Les pirates tissent leur toile](https://www.youtube.com/watch?v=VB7vsaan8PM) 📹
   * 🇫🇷 [Comprendre Internet - histoire](https://www.youtube.com/watch?v=sLJ-QztAqNE) 📹
   * 🇫🇷 [Comprendre comment marche Internet](https://www.youtube.com/playlist?list=PL2972E0D013FE7DE7) 📹

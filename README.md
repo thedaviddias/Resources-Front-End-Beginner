@@ -178,6 +178,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriels web JavaScript - Alsacréations](https://www.alsacreations.com/tuto/liste/5-Javascript) 🆓
   * [JavaScript.Info](http://javascript.info/)
   * [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/) 🆓
+  * [Javascript Tutorial - Watch and Code by Gordon Zhu](https://watchandcode.com/) 🆓💰
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

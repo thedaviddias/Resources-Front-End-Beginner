@@ -198,6 +198,7 @@ I'm using some emoticons to give you more information about these links.
   * [JavaScript Allongée](https://leanpub.com/javascriptallongesix)
   * [Learning JavaScript](https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912)
   * [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.fr/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571)
+  * [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
   * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
 
 **[⬆ back to top](#table-of-contents)**

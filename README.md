@@ -12,7 +12,7 @@ Regularly I will update that list with new resources and links I found on the we
 
 I'm using some emoticons to give you more information about these links.
 
-1. All links without a flag are in english 🇺🇸 🇬🇧. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
+1. All links without a flag are in English 🇺🇸 🇬🇧. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available 

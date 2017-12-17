@@ -123,10 +123,10 @@ I'm using some emoticons to give you more information about these links.
     * Selectors
       * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
     * Flexbox
-      * [Flexbox Froggy](http://flexboxfroggy.com/) 🆓 🔝
+      * 🌍 [Flexbox Froggy](http://flexboxfroggy.com/) 🆓 🔝
       * [Flexbox Defense](http://www.flexboxdefense.com/) 🆓 🔝
     * CSS Grid
-      * [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
+      * 🌍 [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
 
 * Documentation
   * [CSS Reference](http://cssreference.io/) 🔝

@@ -15,7 +15,7 @@ I'm using some emoticons to give you more information about these links.
 1. All links without a flag are in English 🇺🇸 🇬🇧. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.
 3. 🔝 indicate that the link is a reference
-4. 📹 is present when video content is available 
+4. 📹 is present when video content is available
 
 [![Code Sponsor](https://app.codesponsor.io/embed/HxqChNNHFKFaMpEpEikk4EM4/thedaviddias/Resources-Front-End-Beginner.svg)](https://app.codesponsor.io/link/HxqChNNHFKFaMpEpEikk4EM4/thedaviddias/Resources-Front-End-Beginner)
 
@@ -70,11 +70,11 @@ I'm using some emoticons to give you more information about these links.
   * [Learn HTML in 30 Minutes - Youtube](https://www.youtube.com/watch?v=hrZqiCUx6kg) 🆓 📹
   * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/) 💰🆓
   * [HTML Basics - TreeHouse](https://teamtreehouse.com/library/html-basics-2) 💰 📹
-  * [HTML/CSS Path - Code School](https://www.codeschool.com/learn/html-css) 💰 📹 
+  * [HTML/CSS Path - Code School](https://www.codeschool.com/learn/html-css) 💰 📹
   * [HTML Essential Training - Lynda](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html) 💰 📹
   * [Your First Day with HTML - Pluralsight](https://www.pluralsight.com/courses/your-first-day-html-1665) 💰 📹
   * [HTML Fundamentals - Pluralsight](https://www.pluralsight.com/courses/html-fundamentals) 💰 📹
-  * [Introduction to HTML and CSS - TreeHouse](https://teamtreehouse.com/library/introduction-to-html-and-css) 💰 
+  * [Introduction to HTML and CSS - TreeHouse](https://teamtreehouse.com/library/introduction-to-html-and-css) 💰
   * [Introduction to HTML5 and CSS3 - Frontend Masters](https://frontendmasters.com/courses/introduction-html5-css3/) 💰 📹
   * [HTML/CSS on Code Avengers](https://www.codeavengers.com/profile#html-css) 💰🆓
   * [30 Days to Learn HTML & CSS](https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css?_ga=2.133963854.1549833602.1507724443-1498690494.1505785599) 💰🆓 📹
@@ -110,7 +110,7 @@ I'm using some emoticons to give you more information about these links.
 * Courses / Tutorials
 
   * 🌍 [Learn CSS - CodeCademy](https://www.codecademy.com/learn/learn-css) 💰🆓 🔝
-  * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹 
+  * [Learn CSS in 12 Minutes - Youtube](https://www.youtube.com/watch?v=0afZj1G0BIE) 🆓 📹
   * [CSS Basics - TreeHouse](https://teamtreehouse.com/library/css-basics) 💰 📹
   * [Introduction to CSS](https://www.pluralsight.com/courses/css-intro) 💰 📹
   * [CSS3 In-Depth](https://frontendmasters.com/courses/css3-in-depth/) 💰 📹
@@ -147,7 +147,7 @@ I'm using some emoticons to give you more information about these links.
   * [CSS Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/css-beginner-level-2)
 
 * Articles/Books
-  * [CSS, The definitive guide - Eric Meyer](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330) 
+  * [CSS, The definitive guide - Eric Meyer](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)
   * [Enduring CSS - Ben Frain](https://www.amazon.com/Enduring-CSS-Ben-Frain/dp/1787282805)
   * [The CSS PocketGuide - Chris Casciano](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
   * [CSS Secrets: Better Solutions to Everyday Web Design Problems - Lea Verou](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
@@ -166,7 +166,7 @@ I'm using some emoticons to give you more information about these links.
   * [Basic JavaScript](https://www.freecodecamp.org/map#nested-collapseBasicJavaScript) 🆓 🔝
   * [Introduction To JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript) 💰🆓 🔝
   * [Beau teaches JavaScript - Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) 🆓 📹
-  * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) 🆓 📹 
+  * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) 🆓 📹
   * [Intro to JavaScript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 🆓
   * [Learn JavaScript - Codementor](https://www.codementor.io/javascript) 🆓
   * [Introduction to JavaScript Programming - Frontend Masters](https://frontendmasters.com/courses/javascript-basics/) 💰 📹
@@ -264,6 +264,9 @@ I'm using some emoticons to give you more information about these links.
 * [WebTools Weekly](https://webtoolsweekly.com/)
 * [Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
 * [Sidebar](https://sidebar.io/)
+* [Responsive Design Weekly](http://responsivedesignweekly.com/)
+* [JSK Weekly](https://javascriptkicks.com/)
+* [WebRTC Weekly](https://webrtcweekly.com/)
 
 ## Contributing
 

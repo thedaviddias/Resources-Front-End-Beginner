@@ -186,6 +186,9 @@ I'm using some emoticons to give you more information about these links.
   * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
   * [ES6 Katas - Learn ES6 by doing it](http://es6katas.org/)
 
+* Guidelines
+    * [Clean Code concepts adapted for JavaScript - Github](https://github.com/ryanmcdermott/clean-code-javascript)
+
 * Quiz / challenges
   * [Workshoppers - NodeSchool](https://nodeschool.io/) 🔝
   * [JavaScript Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/javascript-beginner-level-2) 🔝

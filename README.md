@@ -124,6 +124,7 @@ I'm using some emoticons to give you more information about these links.
       * [Flexbox Defense](http://www.flexboxdefense.com/) 🆓 🔝
     * CSS Grid
       * [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
+      * [coursetro](https://coursetro.com/posts/code/93/Learn-the-CSS-Grid-by-Example-(The-New-CSS-Grid-Tutorial)#)
 
 * Documentation
   * [CSS Reference](http://cssreference.io/) 🔝
@@ -164,11 +165,13 @@ I'm using some emoticons to give you more information about these links.
   * [Introduction To JavaScript - CodeCademy](https://www.codecademy.com/learn/introduction-to-javascript) 💰🆓 🔝
   * [Beau teaches JavaScript - Youtube](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmoiNlqLJg1gxEjEuKHHcn_) 🆓 📹
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) 🆓 📹 
+  *[Javascript:Where should you start](https://zellwk.com/blog/how-to-learn-javascript/?ck_subscriber_id=132657249)
   * [Intro to JavaScript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 🆓
   * [Learn JavaScript - Codementor](https://www.codementor.io/javascript) 🆓
   * [Introduction to JavaScript Programming - Frontend Masters](https://frontendmasters.com/courses/javascript-basics/) 💰 📹
   * [JavaScript Essential Training - Lynda](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 💰 📹
   * [JavaScript Fundamentals - Tuts+](https://code.tutsplus.com/courses/javascript-fundamentals) 💰🆓 📹
+  *[Variables in Javascript](https://zellwk.com/blog/javascript-variables/?ck_subscriber_id=132657249)
   * [Getting Started with JavaScript for Web Development - Scotch](https://scotch.io/courses/getting-started-with-javascript) 💰🆓
   * [JavaScript Basics - TreeHouse](https://teamtreehouse.com/library/javascript-basics) 💰
   * [JavaScript path - Code School](https://www.codeschool.com/learn/javascript) 💰

@@ -170,6 +170,7 @@ I'm using some emoticons to give you more information about these links.
   * [Intro to JavaScript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 🆓
   * [Learn JavaScript - Codementor](https://www.codementor.io/javascript) 🆓
   * [Introduction to JavaScript Programming - Frontend Masters](https://frontendmasters.com/courses/javascript-basics/) 💰 📹
+  * [LambdaSchool Javascript Mini Bootcamp](https://lambdaschool.com/free-course-web/)💰🆓 🔝
   * [JavaScript Essential Training - Lynda](https://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/574716-2.html) 💰 📹
   * [JavaScript Fundamentals - Tuts+](https://code.tutsplus.com/courses/javascript-fundamentals) 💰🆓 📹
   * [Getting Started with JavaScript for Web Development - Scotch](https://scotch.io/courses/getting-started-with-javascript) 💰🆓

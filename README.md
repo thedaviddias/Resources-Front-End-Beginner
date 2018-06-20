@@ -206,6 +206,7 @@ I'm using some emoticons to give you more information about these links.
 * [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/) 🆓
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
 * [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
+* [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/learn/v4/content) 
 
 **[⬆ back to top](#table-of-contents)**
 

@@ -245,6 +245,7 @@ I'm using some emoticons to give you more information about these links.
 ## Chat / Slack channels
 * [FEDs - Slack](https://feds.slack.com)
 * 🇫🇷 [Front-end France - Slack](https://frontendfr.slack.com)
+* 🇫🇷 [DevFr - Telegram](https://t.me/DevFr)
 
 ---
 ### Aggregators / News

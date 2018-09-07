@@ -214,6 +214,7 @@ I'm using some emoticons to give you more information about these links.
 * [15 minutes to learn Git](https://try.github.io) 🔝
 * [Git-it (Desktop App) - NodeSchool](https://github.com/jlord/git-it-electron) 🆓 🔝
 * 🌍 [Learn Git on CodeCademy](https://www.codecademy.com/learn/learn-git) 💰🆓 🔝
+* [Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub](https://github.com/jlord/git-it-electron) 🆓 🔝
 * [Learn Git Branching – Educational challenges](https://learngitbranching.js.org/) 🆓
 * [Learn Git by Microsoft](https://www.visualstudio.com/learn-git/) 🆓
 * [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/) 🆓

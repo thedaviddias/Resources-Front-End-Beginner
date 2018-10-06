@@ -127,6 +127,7 @@ I'm using some emoticons to give you more information about these links.
       * [Flexbox Defense](http://www.flexboxdefense.com/) 🆓 🔝
     * CSS Grid
       * 🌍 [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
+      * [Learn CSS Grid with Wes Bos](https://cssgrid.io/) 🆓 🔝
 
 * Documentation
   * [CSS Reference](http://cssreference.io/) 🔝

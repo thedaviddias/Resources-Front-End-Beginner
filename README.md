@@ -92,6 +92,7 @@ I'm using some emoticons to give you more information about these links.
   * [The Elements of HTML](https://rawgit.com/w3c/elements-of-html/master/index.html)
 
 * Guidelines
+  * [SEO, Speed and Security Best Practices - Checkbot](https://www.checkbot.io/guide/)
   * [HTML Best Practices - Github](https://github.com/hail2u/html-best-practices)
 
 * Quiz / Challenges
@@ -231,6 +232,8 @@ I'm using some emoticons to give you more information about these links.
 ## Tools
 * Essential
   * [Github](https://github.com/) 💰🆓 🔝
+* Website auditors
+  * [Checkbot](https://www.checkbot.io/) 💰🆓 🔝
 * Playgrounds
   * [Codepen](https://codepen.io/) 💰🆓 🔝
   * [CodeSandbox](https://codesandbox.io/)

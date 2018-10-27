@@ -148,6 +148,7 @@ I'm using some emoticons to give you more information about these links.
 
 * Quizz / challenges
   * [CSS Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/css-beginner-level-2)
+  * [CSS Responsive Template - Recreate the Template to Learn Challenge](https://www.free-css.com/free-css-templates/page196/conquer)
 
 * Articles/Books
   * [CSS, The definitive guide - Eric Meyer](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)

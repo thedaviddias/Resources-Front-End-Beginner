@@ -17,8 +17,6 @@ I'm using some emoticons to give you more information about these links.
 3. 🔝 indicate that the link is a reference
 4. 📹 is present when video content is available
 
-[![Code Sponsor](https://app.codesponsor.io/embed/HxqChNNHFKFaMpEpEikk4EM4/thedaviddias/Resources-Front-End-Beginner.svg)](https://app.codesponsor.io/link/HxqChNNHFKFaMpEpEikk4EM4/thedaviddias/Resources-Front-End-Beginner)
-
 ---
 ## Table of Contents
 1. **[Start here](#start-here)**

@@ -237,6 +237,9 @@ I'm using some emoticons to give you more information about these links.
   * [CodeSandbox](https://codesandbox.io/)
   * [SassMeister](https://www.sassmeister.com/)
   * [JSFiddle](https://jsfiddle.net/)
+  * [JSBin](https://jsbin.com/)
+  * [Thimble](https://thimble.mozilla.org/en-US/)
+  
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝
   * [Sublime Text](https://www.sublimetext.com/) 🆓

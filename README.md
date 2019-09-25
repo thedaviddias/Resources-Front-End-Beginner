@@ -257,14 +257,14 @@ I'm using some emoticons to give you more information about these links.
 * 🇫🇷 [DevFr - Telegram](https://t.me/DevFr)
 
 ## Paid Courses for free download (Education is free for everyone]
-* [Learn JavaScript: Full stack from scratch] (https://freetutorials.se/learn-javascript-full-stack-from-scratch/)
-* [React Front to back 2019] (https://freetutorials.se/react-front-to-back-2019/)
-* [Advanced CSS and SASS: Take your CSS to the next level] (https://freetutorials.se/advanced-css-and-sass-take-your-css-to-the-next-level-1/)
-* [The Complete 2019 Web development Course: Build 15 Projects] (https://freetutorials.se/the-complete-2019-web-development-course-build-15-projects/)
-* [Complete React Developer in 2019: Redux Hooks, GraphQL] (https://freetutorials.se/complete-react-developer-in-2019-w-redux-hooks-graphql/)
-* [Modern JavaScript: Novice to Ninja] (https://freetutorials.se/modern-javascript-from-novice-to-ninja/)
-* [Build Web apps with Vue.js and Firebase] (https://freetutorials.se/build-web-apps-with-vue-js-2-firebase/)
-* [Make a responsive portfolio website with JavaScript and HTML] (https://freetutorials.se/make-a-responsive-portfolio-website-javascript-and-html/)
+* [Learn JavaScript: Full stack from scratch](https://freetutorials.se/learn-javascript-full-stack-from-scratch/)
+* [React Front to back 2019](https://freetutorials.se/react-front-to-back-2019/)
+* [Advanced CSS and SASS: Take your CSS to the next level](https://freetutorials.se/advanced-css-and-sass-take-your-css-to-the-next-level-1/)
+* [The Complete 2019 Web development Course: Build 15 Projects](https://freetutorials.se/the-complete-2019-web-development-course-build-15-projects/)
+* [Complete React Developer in 2019: Redux Hooks, GraphQL](https://freetutorials.se/complete-react-developer-in-2019-w-redux-hooks-graphql/)
+* [Modern JavaScript: Novice to Ninja](https://freetutorials.se/modern-javascript-from-novice-to-ninja/)
+* [Build Web apps with Vue.js and Firebase](https://freetutorials.se/build-web-apps-with-vue-js-2-firebase/)
+* [Make a responsive portfolio website with JavaScript and HTML](https://freetutorials.se/make-a-responsive-portfolio-website-javascript-and-html/)
  
 ---
 ### Aggregators / News

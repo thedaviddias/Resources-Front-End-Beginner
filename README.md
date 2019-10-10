@@ -76,6 +76,7 @@ I'm using some emoticons to give you more information about these links.
   * [Introduction to HTML5 and CSS3 - Frontend Masters](https://frontendmasters.com/courses/introduction-html5-css3/) 💰 📹
   * [HTML/CSS on Code Avengers](https://www.codeavengers.com/profile#html-css) 💰🆓
   * [30 Days to Learn HTML & CSS](https://webdesign.tutsplus.com/courses/30-days-to-learn-html-css?_ga=2.133963854.1549833602.1507724443-1498690494.1505785599) 💰🆓 📹
+  * [Introduction to HTML](https://scrimba.com/g/ghtml) 🆓 📹
   * 🇫🇷 [Apprenez à créer votre site web avec HTML5 et CSS3 - OpenClassRooms](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3) 💰🆓
   * 🇫🇷 [Tutoriels web HTML - Alsacréations](https://www.alsacreations.com/tuto/liste/1-HTML) 🆓
   * 🇫🇷 [HTML et CSS - Le Cours Complet - Udemy](https://www.udemy.com/cours-html-css/) 💰
@@ -119,6 +120,7 @@ I'm using some emoticons to give you more information about these links.
   * 🇫🇷 [Tutoriel CSS : Comment bien organiser son CSS - Grafikart](https://www.youtube.com/watch?v=t8Up7GiNIoU) 🆓 📹
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
   * [CSS Tutorial - w3schools](https://www.w3schools.com/css/) 🆓
+  * [Introduction to CSS](https://scrimba.com/g/gintrotocss) 🆓 📹
   * [Learn CSS - Sololearn](https://www.sololearn.com/Course/CSS/)
     * Selectors
       * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
@@ -183,6 +185,7 @@ I'm using some emoticons to give you more information about these links.
   * [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/) 🆓
   * [Javascript Tutorial - Watch and Code by Gordon Zhu](https://watchandcode.com/) 🆓💰
   * [Learn Javascript](https://www.sololearn.com/Course/JavaScript/)
+  * [Introduction to Javascript](https://scrimba.com/g/gintrotojavascript) 🆓
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

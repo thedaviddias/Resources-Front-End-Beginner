@@ -6,11 +6,11 @@
 [gitter-image]: https://badges.gitter.im/Front-End-Checklist/Lobby.svg
 [gitter-url]: https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-If you want to learn how to become a Front-End developer, you are on the right place!
+If you want to learn how to become a Front-End developer, you are in the right place!
 
-Regularly I will update that list with new resources and links I found on the web. Don't hesitate to participate sending a PR! Maybe your first on Github :)
+I will regularly update that list with new resources and links I found on the web. Don't hesitate to participate by sending a PR! Maybe your first on Github :)
 
-I'm using some emoticons to give you more information about these links.
+I'm using some emoticons to give you more information on these links.
 
 1. All links without a flag are in English 🇺🇸 🇬🇧. The flag 🇫🇷 means the resource is in French, 🌍 means the resource is multi-language.
 2. 💰 are paid tutorials, 🆓 are free tutorials. Sometimes you will have some free videos / articles and other paid on the same website.

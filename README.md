@@ -81,7 +81,7 @@ I'm using some emoticons to give you more information on these links.
   * 🇫🇷 [Tutoriels web HTML - Alsacréations](https://www.alsacreations.com/tuto/liste/1-HTML) 🆓
   * 🇫🇷 [HTML et CSS - Le Cours Complet - Udemy](https://www.udemy.com/cours-html-css/) 💰
   * [HTML5 Tutorial - w3schools](https://www.w3schools.com/html/) 🆓
-
+  * [HTML/CSS on GeeksforGeeks](https://www.geeksforgeeks.org/html-tutorials/) 
 * Documentation
   * [HTML Reference](http://htmlreference.io/) 🔝
   * [Introduction to HTML - MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) 🔝

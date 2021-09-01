@@ -210,6 +210,7 @@ I'm using some emoticons to give you more information on these links.
   * [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.fr/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571)
   * [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
   * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
+  * [Airbnb JavaScript Guide()](https://github.com/airbnb/javascript)
 
 **[⬆ back to top](#table-of-contents)**
 

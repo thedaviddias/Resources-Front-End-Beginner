@@ -55,6 +55,7 @@ I'm using some emoticons to give you more information on these links.
 
 * Courses / Tutorials
   * 🌍 [Learn HTML - CodeCademy](https://www.codecademy.com/learn/learn-html) 💰🆓 📹 🔝
+  * [HTML Dog- Beginner, Intermediate, and Advanced Tutorial](https://htmldog.com/guides/html/) 🆓
   * [HTML5 and CSS - FreeCodeCamp](https://www.freecodecamp.org/map#nested-collapseHTML5andCSS) 🆓 🔝
   * [MarkSheet - A free HTML & CSS tutorial](http://marksheet.io/) 🆓 🔝
   * [Intro to HTML/CSS: Making webpages - KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css) 🆓

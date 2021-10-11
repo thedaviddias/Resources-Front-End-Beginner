@@ -137,6 +137,7 @@ I'm using some emoticons to give you more information on these links.
   * [Open Web Reference - CSS](http://ref.openweb.io/CSS/)
   * [CSS Reference](https://tympanus.net/codrops/css_reference/)
   * [Getting to know CSS](https://learn.shayhowe.com/html-css/getting-to-know-css/)
+  * [CSS Cheatsheet](https://overapi.com/css)
 
 * Guidelines
   * 🌍 [CSS Guidelin.es](https://cssguidelin.es/) 🔝
@@ -191,6 +192,7 @@ I'm using some emoticons to give you more information on these links.
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   * [Modern JavaScript Cheatsheet](https://mbeaudru.github.io/modern-js-cheatsheet/)
   * [ES6 Katas - Learn ES6 by doing it](http://es6katas.org/)
+  * [JavaScript API documentation with instant search](https://devdocs.io/javascript/)
 
 * Guidelines
     * [Clean Code concepts adapted for JavaScript - Github](https://github.com/ryanmcdermott/clean-code-javascript)
@@ -227,6 +229,7 @@ I'm using some emoticons to give you more information on these links.
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
 * [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
 * [Try Git](https://www.codeschool.com/courses/try-git) 🆓
+* [Become a git guru](https://www.atlassian.com/git/tutorials)
 
 **[⬆ back to top](#table-of-contents)**
 

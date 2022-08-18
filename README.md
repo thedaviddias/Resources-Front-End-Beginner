@@ -212,6 +212,23 @@ I'm using some emoticons to give you more information on these links.
   * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
   * [Airbnb JavaScript Guide()](https://github.com/airbnb/javascript)
 
+  * JavaScript Interview Questions
+  * [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) 
+  * [JavaScript Questions](https://github.com/learning-zone/javascript-interview-questions) 
+  * [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) 
+  * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi) 
+  * [5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/) 
+  * [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html) 
+  * [37 Essential JavaScript Interview Questions from Topta](https://www.toptal.com/javascript/interview-questions) 
+  * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/) 
+  * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/) 
+  * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/) 
+  * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/) 
+  * [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews) 
+  * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions) 
+
+ 
+
 **[⬆ back to top](#table-of-contents)**
 
 ---

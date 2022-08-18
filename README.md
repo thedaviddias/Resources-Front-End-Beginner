@@ -170,6 +170,13 @@ I'm using some emoticons to give you more information on these links.
   * 🇫🇷 [CSS avancées, Vers HTML5 et CSS3 - Mathieu Nebra](%>)
   * 🇫🇷 [Premier pas en CSS3 et HTML5](http://www.eyrolles.com/Informatique/Livre/premiers-pas-en-css3-et-html5-9782212674309)
 
+  * CSS Interview Questions
+  * [CSS trivia questions in front end interviews](https://www.frontendinterviewhandbook.com/css-questions)
+  * [Top 50 CSS & CSS3 Interview Questions and Answers (2022)](https://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
+  * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
+  * [CSS interview questions and answers](https://www.techrepublic.com/article/css-interview-questions-and-answers/)
+  * [61 CSS Interview Questions and Answers - Freshers, Experienced](https://www.careerride.com/Interview-Questions-CSS.aspx)
+
 **[⬆ back to top](#table-of-contents)**
 
 ---

@@ -103,6 +103,16 @@ I'm using some emoticons to give you more information on these links.
   * [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
   * 🇫🇷 [Réalisez votre site web avec HTML 5 et CSS 3](http://www.eyrolles.com/Informatique/Livre/realisez-votre-site-web-avec-html-5-et-css-3-9782212674767)
 
+* HTML Interview Questions
+  * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
+  * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
+  * [HTML trivia questions in front end interviews](https://www.frontendinterviewhandbook.com/html-questions)
+  * [Common HTML interview questions for freshers](https://www.javatpoint.com/html-interview-questions)
+  * [Top 60 HTML & HTML5 Interview Questions & Answers (2022)](https://career.guru99.com/top-50-html-interview-questions/)
+  * [40 important HTML 5 Interview questions with answers](https://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
+  * [16 Essential HTML5 Interview Questions from Toptal](https://www.toptal.com/html5/interview-questions)
+  * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
+
 **[⬆ back to top](#table-of-contents)**
 
 ---
@@ -160,6 +170,13 @@ I'm using some emoticons to give you more information on these links.
   * 🇫🇷 [CSS avancées, Vers HTML5 et CSS3 - Mathieu Nebra](%>)
   * 🇫🇷 [Premier pas en CSS3 et HTML5](http://www.eyrolles.com/Informatique/Livre/premiers-pas-en-css3-et-html5-9782212674309)
 
+  * CSS Interview Questions
+  * [CSS trivia questions in front end interviews](https://www.frontendinterviewhandbook.com/css-questions)
+  * [Top 50 CSS & CSS3 Interview Questions and Answers (2022)](https://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
+  * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
+  * [CSS interview questions and answers](https://www.techrepublic.com/article/css-interview-questions-and-answers/)
+  * [61 CSS Interview Questions and Answers - Freshers, Experienced](https://www.careerride.com/Interview-Questions-CSS.aspx)
+
 **[⬆ back to top](#table-of-contents)**
 
 ---
@@ -211,6 +228,23 @@ I'm using some emoticons to give you more information on these links.
   * [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
   * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
   * [Airbnb JavaScript Guide()](https://github.com/airbnb/javascript)
+
+  * JavaScript Interview Questions
+  * [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) 
+  * [JavaScript Questions](https://github.com/learning-zone/javascript-interview-questions) 
+  * [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions) 
+  * [70 JavaScript Interview Questions](https://dev.to/macmacky/70-javascript-interview-questions-5gfi) 
+  * [5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/) 
+  * [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html) 
+  * [37 Essential JavaScript Interview Questions from Topta](https://www.toptal.com/javascript/interview-questions) 
+  * [JavaScript Interview Questions - Quick Refresher](https://www.techbeamers.com/javascript-interview-questions-answers/) 
+  * [Javascript Interview Questions and Answers (2020)](https://www.interviewbit.com/javascript-interview-questions/) 
+  * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/) 
+  * [Ten Questions I've Been Asked, Most More Than Once, Over Six Technical JavaScript / Front-End Engineer Job Interviews.](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/) 
+  * [10 JavaScript concepts you need to know for interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews) 
+  * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions) 
+
+ 
 
 **[⬆ back to top](#table-of-contents)**
 

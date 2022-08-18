@@ -103,6 +103,16 @@ I'm using some emoticons to give you more information on these links.
   * [HTML and CSS: Design and Build Websites](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
   * 🇫🇷 [Réalisez votre site web avec HTML 5 et CSS 3](http://www.eyrolles.com/Informatique/Livre/realisez-votre-site-web-avec-html-5-et-css-3-9782212674767)
 
+* HTML Interview Questions
+  * [30+ HTML Interview Questions (2021)](https://www.interviewbit.com/html-interview-questions/)
+  * [30 HTML Interview Questions and Answers](https://www.techbeamers.com/latest-html-interview-questions/)
+  * [HTML trivia questions in front end interviews](https://www.frontendinterviewhandbook.com/html-questions)
+  * [Common HTML interview questions for freshers](https://www.javatpoint.com/html-interview-questions)
+  * [Top 60 HTML & HTML5 Interview Questions & Answers (2022)](https://career.guru99.com/top-50-html-interview-questions/)
+  * [40 important HTML 5 Interview questions with answers](https://www.codeproject.com/Articles/702051/important-HTML-Interview-questions-with-answe)
+  * [16 Essential HTML5 Interview Questions from Toptal](https://www.toptal.com/html5/interview-questions)
+  * [10 Typical HTML Interview Exercises](http://www.sitepoint.com/10-typical-html-interview-exercises/)
+
 **[⬆ back to top](#table-of-contents)**
 
 ---

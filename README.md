@@ -256,6 +256,7 @@ I'm using some emoticons to give you more information on these links.
   * [Brackets](http://brackets.io/) 🆓
   * [NotePad++](https://notepad-plus-plus.org/) 🆓
   * [Cloud9](https://c9.io/) 💰🆓
+  * [Dreamweaver](https://www.adobe.com/products/dreamweaver.html) 💰🆓
 
 **[⬆ back to top](#table-of-contents)**
 

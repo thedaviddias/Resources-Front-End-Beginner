@@ -227,6 +227,7 @@ I'm using some emoticons to give you more information on these links.
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
 * [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
 * [Try Git](https://www.codeschool.com/courses/try-git) 🆓
+* [Learn Git - Git Tutorials, workflows and commands](https://www.atlassian.com/git)🆓
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -243,6 +244,9 @@ I'm using some emoticons to give you more information on these links.
   * [JSFiddle](https://jsfiddle.net/)
   * [JSBin](https://jsbin.com/)
   * [Thimble](https://thimble.mozilla.org/en-US/)
+
+* Web design Tools
+  * [Webflow](https://webflow.com/)🆓💰
   
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝

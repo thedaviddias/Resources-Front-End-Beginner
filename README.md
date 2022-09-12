@@ -183,6 +183,7 @@ I'm using some emoticons to give you more information on these links.
   * [ES6 for everyone](https://es6.io/) 💰 📹
   * 🇫🇷 [Tutoriels web JavaScript - Alsacréations](https://www.alsacreations.com/tuto/liste/5-Javascript) 🆓
   * [JavaScript.Info](http://javascript.info/)
+  * [JavaScript Tutorial - javascripttutorial.net](https://www.javascripttutorial.net/) 🆓
   * [JavaScript Tutorial - w3schools](https://www.w3schools.com/js/) 🆓
   * [Javascript Tutorial - Watch and Code by Gordon Zhu](https://watchandcode.com/) 🆓💰
   * [Learn Javascript](https://www.sololearn.com/Course/JavaScript/)

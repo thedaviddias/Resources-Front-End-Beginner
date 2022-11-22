@@ -68,6 +68,7 @@ I'm using some emoticons to give you more information on these links.
   * [Learn HTML in 30 Minutes - Youtube](https://www.youtube.com/watch?v=hrZqiCUx6kg) 🆓 📹
   * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/) 💰🆓
   * [HTML Basics - TreeHouse](https://teamtreehouse.com/library/html-basics-2) 💰 📹
+  * [Learn HTML in Detail - Scaler Topics](https://www.scaler.com/topics/html/)🆓
   * [HTML/CSS Path - Code School](https://www.codeschool.com/learn/html-css) 💰 📹
   * [HTML Essential Training - Lynda](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html) 💰 📹
   * [Your First Day with HTML - Pluralsight](https://www.pluralsight.com/courses/your-first-day-html-1665) 💰 📹

@@ -122,12 +122,15 @@ I'm using some emoticons to give you more information on these links.
   * 🇫🇷 [Tutoriels web CSS - Alsacréations](https://www.alsacreations.com/tuto/liste/2-CSS) 🆓
   * [CSS Tutorial - w3schools](https://www.w3schools.com/css/) 🆓
   * [Introduction to CSS](https://scrimba.com/g/gintrotocss) 🆓 📹
+  * [BEM methodology - Youtube](https://www.youtube.com/watch?v=SLjHSVwXYq4) 🆓 📹
+  * [CSS Grid | Real world examples - Youtube](https://www.youtube.com/watch?v=YnYdwezNjNg) 🆓 📹
   * [Learn CSS - Sololearn](https://www.sololearn.com/Course/CSS/)
     * Selectors
       * [CSS Diner](https://flukeout.github.io/) 🆓 🔝
     * Flexbox
       * 🌍 [Flexbox Froggy](http://flexboxfroggy.com/) 🆓 🔝
       * [Flexbox Defense](http://www.flexboxdefense.com/) 🆓 🔝
+      * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/) 🆓 🔝
     * CSS Grid
       * 🌍 [Grid Garden](http://cssgridgarden.com/) 🆓 🔝
       * [Learn CSS Grid with Wes Bos](https://cssgrid.io/) 🆓 🔝
@@ -156,6 +159,8 @@ I'm using some emoticons to give you more information on these links.
   * [The CSS PocketGuide - Chris Casciano](https://www.amazon.com/CSS-Pocket-Guide-Peachpit/dp/0321732278)
   * [CSS Secrets: Better Solutions to Everyday Web Design Problems - Lea Verou](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635)
   * [Professional CSS3 - Piotr Sikora](https://www.packtpub.com/web-development/professional-css3)
+  * [BEM 101 - Robin Rendle](https://css-tricks.com/bem-101/)
+  * [A Complete Guide to CSS Grid - Chris House](https://css-tricks.com/snippets/css/complete-guide-grid/)
   * 🇫🇷 [CSS3 - Raphaël Goetter, Hugo Giraudel](http://www.eyrolles.com/Informatique/Livre/css3-9782212140231)
   * 🇫🇷 [CSS avancées - Raphaël Goetter](http://www.eyrolles.com/Informatique/Livre/css-avancees-9782212134056)
   * 🇫🇷 [CSS avancées, Vers HTML5 et CSS3 - Mathieu Nebra](%>)

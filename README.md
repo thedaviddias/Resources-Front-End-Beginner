@@ -212,6 +212,13 @@ I'm using some emoticons to give you more information on these links.
 **[⬆ back to top](#table-of-contents)**
 
 ---
+
+### Learn TypeScript
+
+* Articles / Books
+  * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) 🆓
+
+---
 ## Learn GIT
 
 * [15 minutes to learn Git](https://try.github.io) 🔝

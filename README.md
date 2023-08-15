@@ -299,13 +299,16 @@ I'm using some emoticons to give you more information on these links.
 
 **Open an issue or a pull request to suggest changes or additions.**
 
-### Contributors
+## Contributors
 
-Check out all the super awesome [contributors](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-## Authors
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-**[David Dias](https://twitter.com/thedaviddias)**
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 

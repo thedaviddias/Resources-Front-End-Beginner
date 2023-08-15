@@ -7,5 +7,20 @@
   ],
   "imageSize": 120,
   "repoType": "github",
-  "contributors": []
+  "contributors": [
+    {
+      "login": "thedaviddias",
+      "name": "David Dias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237229?v=4",
+      "profile": "https://thedaviddias.dev",
+      "contributions": [
+        "content",
+        "maintenance",
+        "review"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
 }

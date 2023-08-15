@@ -1,10 +1,6 @@
-# The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+# The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 
-[![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-[gitter-image]: https://badges.gitter.im/Front-End-Checklist/Lobby.svg
-[gitter-url]: https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 If you want to learn how to become a Front-End developer, you are in the right place!
 
@@ -216,6 +212,13 @@ I'm using some emoticons to give you more information on these links.
 **[⬆ back to top](#table-of-contents)**
 
 ---
+
+### Learn TypeScript
+
+* Articles / Books
+  * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) 🆓
+
+---
 ## Learn GIT
 
 * [15 minutes to learn Git](https://try.github.io) 🔝
@@ -298,13 +301,24 @@ I'm using some emoticons to give you more information on these links.
 
 **Open an issue or a pull request to suggest changes or additions.**
 
-### Contributors
+## Contributors
 
-Check out all the super awesome [contributors](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://thedaviddias.dev"><img src="https://avatars.githubusercontent.com/u/237229?v=4?s=120" width="120px;" alt="David Dias"/><br /><sub><b>David Dias</b></sub></a><br /><a href="#content-thedaviddias" title="Content">🖋</a> <a href="#maintenance-thedaviddias" title="Maintenance">🚧</a> <a href="https://github.com/thedaviddias/Resources-Front-End-Beginner/pulls?q=is%3Apr+reviewed-by%3Athedaviddias" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gibbok"><img src="https://avatars.githubusercontent.com/u/17195702?v=4?s=120" width="120px;" alt="Simone Poggiali"/><br /><sub><b>Simone Poggiali</b></sub></a><br /><a href="#content-gibbok" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Authors
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-**[David Dias](https://twitter.com/thedaviddias)**
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 

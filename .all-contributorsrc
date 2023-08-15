@@ -1,0 +1,35 @@
+{
+  "projectName": "Resources-Front-End-Beginner",
+  "projectOwner": "thedaviddias",
+  "files": [
+    "CONTRIBUTORS.md",
+    "README.md"
+  ],
+  "imageSize": 120,
+  "repoType": "github",
+  "contributors": [
+    {
+      "login": "thedaviddias",
+      "name": "David Dias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/237229?v=4",
+      "profile": "https://thedaviddias.dev",
+      "contributions": [
+        "content",
+        "maintenance",
+        "review"
+      ]
+    },
+    {
+      "login": "gibbok",
+      "name": "Simone Poggiali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17195702?v=4",
+      "profile": "https://github.com/gibbok",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7
+}

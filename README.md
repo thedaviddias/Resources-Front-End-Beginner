@@ -1,10 +1,6 @@
-# The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+# The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 
-[![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-[gitter-image]: https://badges.gitter.im/Front-End-Checklist/Lobby.svg
-[gitter-url]: https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 If you want to learn how to become a Front-End developer, you are in the right place!
 
@@ -255,7 +251,7 @@ I'm using some emoticons to give you more information on these links.
 
 * Web design Tools
   * [Webflow](https://webflow.com/)🆓💰
-  
+
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝
   * [Sublime Text](https://www.sublimetext.com/) 🆓

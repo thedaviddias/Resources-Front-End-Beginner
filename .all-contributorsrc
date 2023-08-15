@@ -27,6 +27,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "liquid-O2",
+      "name": "Arunava  (Aru)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83031120?v=4",
+      "profile": "http://arunava.dev",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "commitType": "docs",

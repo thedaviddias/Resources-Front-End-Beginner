@@ -251,7 +251,8 @@ I'm using some emoticons to give you more information on these links.
 
 * Web design Tools
   * [Webflow](https://webflow.com/)🆓💰
-
+  * [Framer](https://www.framer.com/)🆓💰
+  
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝
   * [Sublime Text](https://www.sublimetext.com/) 🆓
@@ -279,6 +280,7 @@ I'm using some emoticons to give you more information on these links.
 * [Echo JS - JavaScript News](http://www.echojs.com/)
 * [A list Apart - Code](https://alistapart.com/topic/code)
 * [Scotch - Code Eat Sleep Loop](https://scotch.io/)
+* [Daily.dev](https://daily.dev/)
 
 **[⬆ back to top](#table-of-contents)**
 

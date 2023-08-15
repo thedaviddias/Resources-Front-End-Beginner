@@ -183,6 +183,7 @@ I'm using some emoticons to give you more information on these links.
   * [Javascript Tutorial - Watch and Code by Gordon Zhu](https://watchandcode.com/) 🆓💰
   * [Learn Javascript](https://www.sololearn.com/Course/JavaScript/)
   * [Introduction to Javascript](https://scrimba.com/g/gintrotojavascript) 🆓
+   * [The Complete JavaScript Course: From Zero to Expert! - udemy](https://www.udemy.com/course/the-complete-javascript-course/)💰 
 
 * Documentation
   * [JavaScript reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)

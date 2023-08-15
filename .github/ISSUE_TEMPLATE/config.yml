@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📝 ​ ​Typo or Grammatical Mistake
+    url: https://github.com/thedaviddias/Resources-Front-End-Beginner/tree/main
+    about: Please submit a pull request instead of reporting it as an issue.

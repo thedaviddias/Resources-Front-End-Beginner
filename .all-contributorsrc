@@ -18,6 +18,15 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "gibbok",
+      "name": "Simone Poggiali",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17195702?v=4",
+      "profile": "https://github.com/gibbok",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "commitType": "docs",

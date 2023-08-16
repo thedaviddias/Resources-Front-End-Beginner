@@ -145,6 +145,8 @@ I'm using some emoticons to give you more information on these links.
 
 * Quizz / challenges
   * [CSS Quiz beginner level - Skillvalue](https://skillvalue.com/en/quizzes/front-end/css-beginner-level-2)
+  * [CSS Battle](https://cssbattle.dev/) 🆓
+  * [Flexbox Froggy CSS Challenge](https://flexboxfroggy.com/) 🆓
 
 * Articles/Books
   * [CSS, The definitive guide - Eric Meyer](https://www.amazon.com/CSS-Definitive-Guide-Eric-Meyer/dp/0596527330)

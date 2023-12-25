@@ -1,0 +1,24 @@
+name: Check Markdown links
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  markdown-link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Check broken links
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.15
+        with:
+          base-branch: main
+          file-path: './README.md'

@@ -1,10 +1,6 @@
-# The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
+# The most essential list of resources for Front-End beginners (🇺🇸 & 🇫🇷)
 
-[![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
 [![CC0](https://img.shields.io/badge/license-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-[gitter-image]: https://badges.gitter.im/Front-End-Checklist/Lobby.svg
-[gitter-url]: https://gitter.im/Front-End-Checklist/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 If you want to learn how to become a Front-End developer, you are in the right place!
 
@@ -35,7 +31,7 @@ I'm using some emoticons to give you more information on these links.
 ---
 ## Start here
 * Understand Internet
-  * [How Does the Internet Actually Work?](https://www.youtube.com/watch?v=ZonvMhT5c_Q) 📹 🔝
+  * [How Does the Internet Actually Work?](https://www.youtube.com/watch?v=5SXK__rm6DM) 📹 🔝
   * [What is Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M) 📹 🔝
   * [How does the internet work? - Part 1 (It's like a bad drawing.)](https://www.youtube.com/watch?v=XZIMEoUhOA8) 📹
   * [How Does the Internet Work?](https://www.youtube.com/watch?v=7XoaoFjKqYM) 📹
@@ -81,6 +77,7 @@ I'm using some emoticons to give you more information on these links.
   * 🇫🇷 [Tutoriels web HTML - Alsacréations](https://www.alsacreations.com/tuto/liste/1-HTML) 🆓
   * 🇫🇷 [HTML et CSS - Le Cours Complet - Udemy](https://www.udemy.com/cours-html-css/) 💰
   * [HTML5 Tutorial - w3schools](https://www.w3schools.com/html/) 🆓
+  * [AlgoExpert's Front-end Expert Course](https://www.algoexpert.io/content#fe) 💰
 
 * Documentation
   * [HTML Reference](http://htmlreference.io/) 🔝
@@ -210,8 +207,16 @@ I'm using some emoticons to give you more information on these links.
   * [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.fr/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571)
   * [JavaScript and JQuery: Interactive Front-End Web Development](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647)
   * 🇫🇷 [JavaScript - Développez efficacement](https://www.amazon.fr/JavaScript-Développez-efficacement-2e-édition/dp/2409009727)
+  * [Airbnb JavaScript Guide()](https://github.com/airbnb/javascript)
 
 **[⬆ back to top](#table-of-contents)**
+
+---
+
+### Learn TypeScript
+
+* Articles / Books
+  * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) 🆓
 
 ---
 ## Learn GIT
@@ -221,11 +226,12 @@ I'm using some emoticons to give you more information on these links.
 * 🌍 [Learn Git on CodeCademy](https://www.codecademy.com/learn/learn-git) 💰🆓 🔝
 * [Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub](https://github.com/jlord/git-it-electron) 🆓 🔝
 * [Learn Git Branching – Educational challenges](https://learngitbranching.js.org/) 🆓
-* [Learn Git by Microsoft](https://www.visualstudio.com/learn-git/) 🆓
+* [Introduction to version control with Git - Microsoft Learn](https://docs.microsoft.com/en-gb/learn/paths/intro-to-vc-git/) 🆓
 * [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/) 🆓
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
 * [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
 * [Try Git](https://www.codeschool.com/courses/try-git) 🆓
+* [Learn Git - Git Tutorials, workflows and commands](https://www.atlassian.com/git)🆓
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -242,9 +248,11 @@ I'm using some emoticons to give you more information on these links.
   * [JSFiddle](https://jsfiddle.net/)
   * [JSBin](https://jsbin.com/)
   * [Thimble](https://thimble.mozilla.org/en-US/)
+* Web design Tools
+  * [Webflow](https://webflow.com/)🆓💰
+  * [Framer](https://www.framer.com/)🆓💰
 * Bootstrap Cheatsheet
-  * [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/)
-  
+  * [Bootstrap 5 Cheatsheet](https://bootstrap-cheatsheet.themeselection.com/) 🆓
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝
   * [Sublime Text](https://www.sublimetext.com/) 🆓
@@ -272,6 +280,7 @@ I'm using some emoticons to give you more information on these links.
 * [Echo JS - JavaScript News](http://www.echojs.com/)
 * [A list Apart - Code](https://alistapart.com/topic/code)
 * [Scotch - Code Eat Sleep Loop](https://scotch.io/)
+* [Daily.dev](https://daily.dev/)
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -292,13 +301,25 @@ I'm using some emoticons to give you more information on these links.
 
 **Open an issue or a pull request to suggest changes or additions.**
 
-### Contributors
+## Contributors
 
-Check out all the super awesome [contributors](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://thedaviddias.dev"><img src="https://avatars.githubusercontent.com/u/237229?v=4?s=120" width="120px;" alt="David Dias"/><br /><sub><b>David Dias</b></sub></a><br /><a href="#content-thedaviddias" title="Content">🖋</a> <a href="#maintenance-thedaviddias" title="Maintenance">🚧</a> <a href="https://github.com/thedaviddias/Resources-Front-End-Beginner/pulls?q=is%3Apr+reviewed-by%3Athedaviddias" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gibbok"><img src="https://avatars.githubusercontent.com/u/17195702?v=4?s=120" width="120px;" alt="Simone Poggiali"/><br /><sub><b>Simone Poggiali</b></sub></a><br /><a href="#content-gibbok" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://arunava.dev"><img src="https://avatars.githubusercontent.com/u/83031120?v=4?s=120" width="120px;" alt="Arunava  (Aru)"/><br /><sub><b>Arunava  (Aru)</b></sub></a><br /><a href="#content-liquid-O2" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
 
-## Authors
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-**[David Dias](https://twitter.com/thedaviddias)**
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 

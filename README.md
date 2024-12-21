@@ -309,7 +309,7 @@ I'm using some emoticons to give you more information on these links.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://thedaviddias.dev"><img src="https://avatars.githubusercontent.com/u/237229?v=4?s=120" width="120px;" alt="David Dias"/><br /><sub><b>David Dias</b></sub></a><br /><a href="#content-thedaviddias" title="Content">🖋</a> <a href="#maintenance-thedaviddias" title="Maintenance">🚧</a> <a href="https://github.com/thedaviddias/Resources-Front-End-Beginner/pulls?q=is%3Apr+reviewed-by%3Athedaviddias" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://thedaviddias.com"><img src="https://avatars.githubusercontent.com/u/237229?v=4?s=120" width="120px;" alt="David Dias"/><br /><sub><b>David Dias</b></sub></a><br /><a href="#content-thedaviddias" title="Content">🖋</a> <a href="#maintenance-thedaviddias" title="Maintenance">🚧</a> <a href="https://github.com/thedaviddias/Resources-Front-End-Beginner/pulls?q=is%3Apr+reviewed-by%3Athedaviddias" title="Reviewed Pull Requests">👀</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gibbok"><img src="https://avatars.githubusercontent.com/u/17195702?v=4?s=120" width="120px;" alt="Simone Poggiali"/><br /><sub><b>Simone Poggiali</b></sub></a><br /><a href="#content-gibbok" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://arunava.dev"><img src="https://avatars.githubusercontent.com/u/83031120?v=4?s=120" width="120px;" alt="Arunava  (Aru)"/><br /><sub><b>Arunava  (Aru)</b></sub></a><br /><a href="#content-liquid-O2" title="Content">🖋</a></td>
     </tr>

@@ -252,6 +252,18 @@ I'm using some emoticons to give you more information on these links.
 * Web design Tools
   * [Webflow](https://webflow.com/)🆓💰
   * [Framer](https://www.framer.com/)🆓💰
+ 
+* CheatSheet
+  * [Angular CheatSheet](https://blog.wrappixel.com/angular-cheat-sheet-2023/)
+  * [NextJs CheatSheet](https://blog.wrappixel.com/nextjs-cheat-sheet/)
+  * [React CheatSheet](https://blog.wrappixel.com/react-cheat-sheet/)
+  * [NuxtJs CheatSheet](https://blog.wrappixel.com/nuxt-js-cheat-sheet/)
+  * [VueJs CheatSheet](https://blog.wrappixel.com/vue-cheet-sheet/)
+  * [Bootstrap CheatSheet](https://blog.wrappixel.com/bootstrap-cheat-sheet/)
+
+* Admin Dashboard Template
+  * [Free Admin Dashboard Templates by WrapPixel Team](https://www.wrappixel.com/)
+  * [Free Admin Dashboard Templates by AdminMart Team](https://adminmart.com/)
   
 * Editors
   * [Visual Studio Code](https://code.visualstudio.com/) 🆓 🔝

@@ -241,6 +241,8 @@ I'm using some emoticons to give you more information on these links.
   * [Github](https://github.com/) 💰🆓 🔝
 * Website auditors
   * [Checkbot](https://www.checkbot.io/) 💰🆓 🔝
+* Web application testing
+  * [Agent QA quickstart](https://vostride.com/docs/agent-qa/quickstart) 🆓 - Free guide to running browser tests written in natural language. The tool is source-available (FSL-1.1-ALv2); model and hosting costs are separate.
 * Playgrounds
   * [Codepen](https://codepen.io/) 💰🆓 🔝
   * [CodeSandbox](https://codesandbox.io/)

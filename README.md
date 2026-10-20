@@ -64,7 +64,6 @@ I'm using some emoticons to give you more information on these links.
   * [Learn HTML in 30 Minutes - Youtube](https://www.youtube.com/watch?v=hrZqiCUx6kg) 🆓 📹
   * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/) 💰🆓
   * [HTML Basics - TreeHouse](https://teamtreehouse.com/library/html-basics-2) 💰 📹
-  * [HTML/CSS Path - Code School](https://www.codeschool.com/learn/html-css) 💰 📹
   * [HTML Essential Training - Lynda](https://www.lynda.com/Web-Development-tutorials/HTML-Essential-Training/170427-2.html) 💰 📹
   * [Your First Day with HTML - Pluralsight](https://www.pluralsight.com/courses/your-first-day-html-1665) 💰 📹
   * [HTML Fundamentals - Pluralsight](https://www.pluralsight.com/courses/html-fundamentals) 💰 📹
@@ -175,7 +174,6 @@ I'm using some emoticons to give you more information on these links.
   * [JavaScript Fundamentals - Tuts+](https://code.tutsplus.com/courses/javascript-fundamentals) 💰🆓 📹
   * [Getting Started with JavaScript for Web Development - Scotch](https://scotch.io/courses/getting-started-with-javascript) 💰🆓
   * [JavaScript Basics - TreeHouse](https://teamtreehouse.com/library/javascript-basics) 💰
-  * [JavaScript path - Code School](https://www.codeschool.com/learn/javascript) 💰
   * [ES6 for everyone](https://es6.io/) 💰 📹
   * 🇫🇷 [Tutoriels web JavaScript - Alsacréations](https://www.alsacreations.com/tuto/liste/5-Javascript) 🆓
   * [JavaScript.Info](http://javascript.info/)
@@ -230,7 +228,7 @@ I'm using some emoticons to give you more information on these links.
 * [Git-it – Learn Git in a real terminal](http://jlord.us/git-it/) 🆓
 * [Git CheatSheet](http://www.ndpsoftware.com/git-cheatsheet.html) 🆓
 * [Git Essential Training - Lynda](https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html) 💰 📹
-* [Try Git](https://www.codeschool.com/courses/try-git) 🆓
+* [Git Playground - Coddy](https://coddy.tech/playground/git) 🆓
 * [Learn Git - Git Tutorials, workflows and commands](https://www.atlassian.com/git)🆓
 
 **[⬆ back to top](#table-of-contents)**
@@ -247,7 +245,7 @@ I'm using some emoticons to give you more information on these links.
   * [SassMeister](https://www.sassmeister.com/)
   * [JSFiddle](https://jsfiddle.net/)
   * [JSBin](https://jsbin.com/)
-  * [Thimble](https://thimble.mozilla.org/en-US/)
+  * [Coddy](https://coddy.tech/playground/html)
 
 * Web design Tools
   * [Webflow](https://webflow.com/)🆓💰
